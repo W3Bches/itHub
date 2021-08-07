@@ -20,6 +20,11 @@ h2{
 	color: #F1F1F1;
 }
 
+h3{
+	padding-left: 8px;
+	color: #F1F1F1;
+}
+
 @media (max-width:1200px){
 	#welcome_content{
 		max-width: 970px;
@@ -34,7 +39,7 @@ h2{
 	#welcome_content{
 		max-width: none;
 	}
-	
+
 }
 
 #header{
