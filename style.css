@@ -22,19 +22,19 @@ h2{
 
 #header{
 	background: #71A0E6;
+	max-width: 1200px;
 	height: 120px;
 	display: flex;
-
+	margin: 0px auto;
 }
 
 #welcome_content{
-	width: 600px;
 	background: #71A0E6;
 	padding-left: 8px;
 	padding-right: 100px;
+	margin: 0px auto;
 }
 
 #sg_img{
-	width: 140px;
-
+	
 }
